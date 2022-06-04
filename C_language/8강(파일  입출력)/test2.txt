@@ -1,0 +1,2 @@
+Example file
+Number that enter is 3
